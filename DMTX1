@@ -3019,7 +3019,7 @@ echo -e "${y} python2 call.py"
 
 #Install prank
 
-314) git clone https://github.com/siputra12/prank
+316) git clone https://github.com/siputra12/prank
 echo -e "${y} SUDAH TERINSTALL.."
 
 ;;
